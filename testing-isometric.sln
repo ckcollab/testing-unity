@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{575723E5-032E-6F11-7281-F7CB09B5E6A5}") = "testing-isometric", "Assembly-CSharp.csproj", "{19A96B0B-A4EF-6033-2B65-54B5B627001F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19A96B0B-A4EF-6033-2B65-54B5B627001F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19A96B0B-A4EF-6033-2B65-54B5B627001F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19A96B0B-A4EF-6033-2B65-54B5B627001F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19A96B0B-A4EF-6033-2B65-54B5B627001F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
